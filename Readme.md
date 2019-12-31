@@ -1,4 +1,4 @@
-+ 这个仓库用来学习的是这个教程的--[node入门](https://www.nodebeginner.org/index-zh-cn.html)   
++ 这个仓库用来学习的是本教程的--[node入门](https://www.nodebeginner.org/index-zh-cn.html)   
 
 + 该应用所有的源代码都可以通过 本书[Github代码仓库](https://github.com/manuelkiessling/nodebeginner.org/tree/master/code/application)查看.
 
